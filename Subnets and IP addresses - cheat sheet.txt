@@ -1,4 +1,18 @@
-interface GigabitEthernet0/0
+The Windows server has several NICs. Thos IP addresses are listed below:
+In early videos I used the first 3 octets "192.168.1"; however, that was changed to "192.168.7" at a later date.
+Rather than using 192.168.1 in your lab, I recommend using 192.168.7 in it's place.
+	192.168.1.86
+	192.168.111.18
+	192.168.132.18
+	192.168.130.18
+	192.168.131.18
+	192.168.112.18
+	192.168.110.18
+	192.168.122.18
+	192.168.120.18
+	192.168.121.18
+
+Router interface GigabitEthernet0/0
 network ip addresses: 192.168.1.250 /24
 
 
