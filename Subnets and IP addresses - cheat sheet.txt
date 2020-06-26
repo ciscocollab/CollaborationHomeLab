@@ -1,0 +1,65 @@
+interface Embedded-Service-Engine0/0
+network ip addresses: 192.168.1.250 /24
+
+
+Network Name DATA VLAN HQ
+VLAN id 112
+network ip addresses: 192.168.112.0 /24
+
+
+Network Name SERVER VLAN HQ
+VLAN id 110
+network ip addresses: 192.168.110.0 /24
+
+
+Network Name VOICE VLAN HQ
+VLAN id 111
+network ip addresses: 192.168.111.0 /24
+
+
+Network Name DATA VLAN SB
+VLAN id 122
+network ip addresses: 192.168.122.0 /24
+
+
+Network Name SERVER VLAN SB
+VLAN id 120
+network ip addresses: 192.168.120.0 /24
+
+
+Network Name VOICE VLAN SB
+VLAN id 121
+network ip addresses: 192.168.121.0 /24
+
+
+Network Name DATA VLAN SC
+VLAN id 132
+network ip addresses: 192.168.132.0 /24
+
+
+Network Name SERVER VLAN SC
+VLAN id 130
+network ip addresses: 192.168.130.0 /24
+
+
+Network Name VOICE VLAN SC
+VLAN id 131
+network ip addresses: 192.168.131.0 /24
+
+
+Network Name DATA VLAN BB
+VLAN id 142
+network ip addresses: 192.168.142.0 /24
+
+
+Network Name SERVER VLAN BB
+VLAN id 140
+network ip addresses: 192.168.140.0 /24
+
+
+Network Name VOICE VLAN BB
+VLAN id 141
+network ip addresses: 192.168.141.0 /24
+
+
+
